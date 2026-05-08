@@ -19,7 +19,6 @@
           <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,django"/>
         </td>
     </tr>
-
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Message Brokers & Tasks</td>
         <td>
@@ -27,35 +26,30 @@
           <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" alt="Celery">
         </td>
     </tr>
-
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql"/>
         </td>
     </tr>
-
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite"/>
         </td>
     </tr>
-
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Infrastructure</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=docker,nginx,linux,bash"/>
         </td>
     </tr>
-
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
         </td>
     </tr>
-
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
         Python Tools
